@@ -465,3 +465,4 @@
 
     }); // end document ready function
 })(jQuery); // End jQuery
+window.$crisp=[];window.CRISP_WEBSITE_ID="12b1fd37-4233-4e9a-8846-80a3a981788e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
