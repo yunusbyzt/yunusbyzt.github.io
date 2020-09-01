@@ -679,7 +679,6 @@ input {
 
 .top-bar-area {
   overflow: hidden;
-  padding: 15px 0;
 }
 
 .top-bar-area .info.box li::after {
@@ -714,6 +713,7 @@ input {
   display: inline-block;
   float: right;
   overflow: hidden;
+  margin-top: 25px;
 }
 
 .top-bar-area .logo a {
